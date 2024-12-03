@@ -1,0 +1,7 @@
+D:\Repo\MullayarovLab5\bin\Debug\MullayarovLab5.exe.config
+D:\Repo\MullayarovLab5\bin\Debug\MullayarovLab5.exe
+D:\Repo\MullayarovLab5\bin\Debug\MullayarovLab5.pdb
+D:\Repo\MullayarovLab5\obj\Debug\MullayarovLab5.csproj.AssemblyReference.cache
+D:\Repo\MullayarovLab5\obj\Debug\MullayarovLab5.csproj.CoreCompileInputs.cache
+D:\Repo\MullayarovLab5\obj\Debug\MullayarovLab5.exe
+D:\Repo\MullayarovLab5\obj\Debug\MullayarovLab5.pdb

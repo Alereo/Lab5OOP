@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent_Mullayarov>
+  <Student_Mullayarov>
+    <name>Георгий</name>
+    <surname>Муллаяров</surname>
+    <age>20</age>
+    <mark>5</mark>
+  </Student_Mullayarov>
+  <Student_Mullayarov>
+    <name>Никита</name>
+    <surname>Лысый</surname>
+    <age>20</age>
+    <mark>5</mark>
+  </Student_Mullayarov>
+  <Student_Mullayarov d2p1:type="Headman_Mullayarov" xmlns:d2p1="http://www.w3.org/2001/XMLSchema-instance">
+    <name>Дарья</name>
+    <surname>Старостова</surname>
+    <age>20</age>
+    <mark>5</mark>
+    <position>Староста</position>
+    <amount_subjects>6</amount_subjects>
+  </Student_Mullayarov>
+  <Student_Mullayarov d2p1:type="Headman_Mullayarov" xmlns:d2p1="http://www.w3.org/2001/XMLSchema-instance">
+    <name>Влад</name>
+    <surname>Кучин</surname>
+    <age>20</age>
+    <mark>4</mark>
+    <position>Профорг</position>
+    <amount_subjects>4</amount_subjects>
+  </Student_Mullayarov>
+  <Student_Mullayarov>
+    <name>Екатерина</name>
+    <surname>Ткачева</surname>
+    <age>19</age>
+    <mark>5</mark>
+  </Student_Mullayarov>
+  <Student_Mullayarov d2p1:type="Headman_Mullayarov" xmlns:d2p1="http://www.w3.org/2001/XMLSchema-instance">
+    <name>Егор</name>
+    <surname>Титов</surname>
+    <age>20</age>
+    <mark>5</mark>
+    <position>Заместитель старосты</position>
+    <amount_subjects>6</amount_subjects>
+  </Student_Mullayarov>
+</ArrayOfStudent_Mullayarov>
